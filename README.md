@@ -25,5 +25,5 @@ cd Waterlily
 
 ## Requirements
 
--Python V 3.11+
--A terminal to run this on
+- Python V 3.11+
+- A terminal to run this on
