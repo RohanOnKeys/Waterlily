@@ -23,3 +23,7 @@ git clone https://github.com/RohanOnKeys/Waterlily.git
 cd Waterlily
 
 
+## Requirements
+
+-Python V 3.11+
+-A terminal to run this on
