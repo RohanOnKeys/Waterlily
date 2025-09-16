@@ -1,3 +1,8 @@
+#This is the test part, we are running waterlily to create a test file with a hello message
+#This then undergoes several commands to check if lily is doing her job
+
+
+
 import os
 
 def run(cmd):
